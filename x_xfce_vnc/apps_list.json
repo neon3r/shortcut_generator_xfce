@@ -1,0 +1,18 @@
+{
+  "Apps": [
+    {
+      "Name": "App1",
+      "Config": {
+        "Exec": "python3 /headless/request_sender.py --s_name=App1",
+        "Icon": "/path/to/icon"
+      }
+    },
+    {
+      "Name": "App2",
+      "Config": {
+        "Exec": "python3 /headless/request_sender.py --s_name=App2",
+        "Icon": "/path/to/icon"
+      }
+    }
+  ]
+}
